@@ -1,2 +1,13 @@
 # Embedded_and_Real-time_Systems
-EENG34030
+
+Part1:
+
+Contributor:
+
+mk20661@bristol.ac.uk Hongbing Qiu
+
+po21744@bristol.ac.uk Yumu Xie
+
+Part 2:
+
+Contributor:
